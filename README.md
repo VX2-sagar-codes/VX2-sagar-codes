@@ -21,4 +21,5 @@ I know
 
 + ![Alt text](https://img.shields.io/badge/latex-blue?logo=LaTeX)
 + a little bit of ![Alt text]( https://img.shields.io/badge/css-blue?logo=css) and ![Alt text]( https://img.shields.io/badge/git-ignore-green?logo=git)
-[![Typing SVG](https://demolab.com)](VX2-sagar-codes)
++ ![Sagar's GitHub Stats](https://vercel.app)](https://github.com)
+
